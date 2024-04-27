@@ -52,6 +52,14 @@
       display: grid;
       place-items: center;
     }
+
+    
+    /* Competition Images */
+      
+    .competition_achievement_images img {
+      height: 25rem;
+   }
+
   
     
   
@@ -95,6 +103,12 @@
     .our_instructors_images .our_instructors_image img {
       right: 1%;
       width: 25dvw;
+    }
+
+    /* Competition Images */
+      
+     .competition_achievement_images img {
+       height: 29rem;
     }
 
   
@@ -184,7 +198,13 @@
 
      }
     /* Competition And Achievement Section */
-  
+     
+      /* Competition Images */
+      
+      .competition_achievement_images img {
+        height: 33rem;
+     }
+ 
   
     /* Why Us Section */
   
@@ -415,6 +435,11 @@
   #gallery {
     height: 100%;
   }
+
+    /* Competition Images */
+      .competition_achievement_images img {
+        height: 16rem;
+     }
   
     /* Why Us */
   
@@ -512,6 +537,12 @@
       right: 1%;
       width: 13dvw;
     }
+
+      /* Competition Images */
+      
+      .competition_achievement_images img {
+        height: 20rem;
+     }
     
   }
     

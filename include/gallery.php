@@ -36,6 +36,14 @@
               <img src="../src/assests/images/our_achievement7.jpeg" alt="karate.png" />
               <img src="../src/assests/images/our_achievement8.jpeg" alt="karate.png" />
               <img src="../src/assests/images/our_achievement9.jpeg" alt="karate.png" />
+    
+              <img src="../src/assests/images/our_achievement10.jpeg" alt="karate.png" />
+              <img src="../src/assests/images/our_achievement11.jpeg" alt="karate.png" />
+              <img src="../src/assests/images/our_achievement13.jpeg" alt="karate.png" />
+              <img src="../src/assests/images/our_achievement14.jpeg" alt="karate.png" />
+              
+              <img src="../src/assests/images/our_achievement9.jpeg" alt="karate.png" />
+              <img src="../src/assests/images/our_achievement9.jpeg" alt="karate.png" />
               <img src="../src/assests/images/our_achievement9.jpeg" alt="karate.png" />
               <img src="../src/assests/images/our_achievement9.jpeg" alt="karate.png" />
             </section>
